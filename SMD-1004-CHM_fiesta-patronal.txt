@@ -1,0 +1,211 @@
+file:///C:/Users/alveb/Documents/UCSB/LING 221ABC (Field Methods)/Recordings/SMD-1004-CHM_fiesta_patronal-AVB-LEFT.eaf
+Friday, June 5, 2026, 10:56 AM
+
+CHM-tx        vitxi nà ntikani-ì lo'o nùu-ntò ñà kíí ñuu Sán Mátxíín
+CHM-ft-eng    Today I will tell you a little bit about the village of San Martín
+CHM-ft-spa    El día de hoy les voy a contar un poco sobre el pueblo San Martín
+Token-gloss   today FUT IPFV.tell-1SG little PREP-2PL SUB COP village San Martín
+
+
+CHM-tx        chi {aa} xà xìna'á ntxìvà'a vàxi-i yó'o soo
+CHM-ft-eng    because it has been a long time since I came, but
+CHM-ft-spa    porque ya tiene mucho tiempo que me vine, pero
+Token-gloss   CONJ {uhm} CONJ long.ago a.lot come-1SG here CONJ
+
+
+CHM-tx        ñà sa'á-nti ñuu-ntì kíí ñà ta xìxòó vikò ñà kíí
+CHM-ft-eng    what we do in our village when it is the festivity is
+CHM-ft-spa    lo que hacemos en nuestro pueblo cuando es la fiesta es
+Token-gloss   SUB IPFV.do-1PL.INCL village-1PL.INCL COP SUB CONJ IPFV.be 
+              festivity SUB COP
+
+
+CHM-tx        nùú ñà'a ixì iin nóviémvré   kixa'-án ntxà kìì ììn-rì
+CHM-ft-eng    the 11th November            and it starts on the 9th
+CHM-ft-spa    el 11 de noviembre           y empieza el 9
+Token-gloss   PREP thing ten one November  IPFV.start-3SG PREP day nine-ANML
+
+
+CHM-tx        ta kixa'á ntataka ntxikuíí-nà ve'e mátómá
+CHM-ft-eng    everybody from the stewardship start gathering
+CHM-ft-spa    comienzan a reunirse todos los de la mayordomía
+Token-gloss   CONJ IPFV.start IPFV.meet all-3PL house stewardship
+
+
+CHM-tx        ta sa'á-na ñà kíí ñà
+CHM-ft-eng    and what they do is that
+CHM-ft-spa    y hacen lo que es que
+Token-gloss   CONJ IPFV.do-3PL SUB COP SUB
+
+
+CHM-tx        sántuvi-ná ntxikuíí ñà kuchúún-na ñà kíí míí kìì ìxì iin-rì
+CHM-ft-eng    to prepare everything that will be needed for the 11th
+CHM-ft-spa    a preparar todo lo que necesitarán para el mero día once
+Token-gloss   IPFV.clean-3PL all SUB IPFV.use-3PL SUB COP TOP day ten one-ANML
+
+
+CHM-tx        ta ñà sa'á-na kíí ñà
+CHM-ft-eng    and what they do is that
+CHM-ft-spa    y lo que hacen es
+Token-gloss   CONJ SUB IPFV.do-3PL COP SUB
+
+
+CHM-tx        ntíkí-na namúxìkà nasíká'a tátùn ntxikuíí ñà kíí ìxì-rì ìxì 
+              iin-rì vitxi
+CHM-ft-eng    look for the band to play for everything that happens on the 10th 
+              and 11th
+CHM-ft-spa    buscar la banda para tocar todo lo que es el dia diez y once
+Token-gloss   IPFV.search-3PL 3PL=band 3PL=POT.play CONJ all SUB COP ten-ANML 
+              ten one-ANML today
+
+
+CHM-tx        ta saani ntíkí-nà iin grúpó
+CHM-ft-eng    and they also look for a band
+CHM-ft-spa    y también buscan un grupo
+Token-gloss   CONJ IPFV.search-3PL one group
+
+
+CHM-tx        ñà na xàà-nà saká'á-na távà na kóó-án                       tátùn
+CHM-ft-eng    to come to play for                                         
+CHM-ft-spa    para que lleguen a tocar como para
+Token-gloss   SUB FUT IPFV.arrive-3PL IPFV.play-3PL CONJ FUT POT.can-3SG  CONJ
+
+
+CHM-tx        ntiká'nu      ñà kíí to'ó ña ñuu ña naní kíí
+CHM-ft-eng    aggrandize    the saint of the village called
+CHM-ft-spa    engrandecer   el santo del pueblo que se llama
+Token-gloss   IPFV.enlarge  SUB COP saint SUB village SUB IPFV.be.called name
+
+
+CHM-tx        míí {#sña} to'ó Sán Mártíìn Óvíspó naní-an
+CHM-ft-eng    called San Martín Obispo
+CHM-ft-spa    San Martín Obispo se llama
+Token-gloss   TOP ### saint San Martín Obispo IPFV.be.called-3SG
+
+
+CHM-tx        ta káchí-na iin ta xìna'á tiémpó káchí náná-ì ñà
+CHM-ft-eng    and they say that long time ago my mom says that
+CHM-ft-spa    y dicen que hace tiempo dice mi mama que
+Token-gloss   CONJ IPFV.say-3PL one CONJ long.ago time IPFV.say mother-1SG SUB
+
+
+CHM-tx        iin na'a nì ìkunì-nà si'vì-nà míí
+CHM-ft-eng    once they wanted to steal
+CHM-ft-spa    una vez quisieron robarse
+Token-gloss   one time PST PFV.want-3PL POT.steal-3PL TOP
+
+
+CHM-tx        to'ó ikán ta kòó ixo-àn
+CHM-ft-eng    this saint and they couldn't
+CHM-ft-spa    a ese santo y no lo pudieron
+Token-gloss   saint DEM CONJ not can-3SG
+
+
+CHM-tx        kani'i-na-ñà chii vèe ntxìvà'-an {káchí}
+CHM-ft-eng    lift it because it was very heavy
+CHM-ft-spa    levantar porque estaba muy pesado (dice)
+Token-gloss   lift-3PL-3SG CONJ heavy very-3SG IPFV.say
+
+
+CHM-tx        káchí náná-ì ntikani-ñá
+CHM-ft-eng    my mother tells me
+CHM-ft-spa    cuenta mi mamá
+Token-gloss   IPFV.say mother-1SG IPFV.tell-3SG
+
+
+CHM-tx        ta ñakán kíí ñà tátùn ñàka kíí ñà ìkìxa'á chíñú'ú ntxìvà'a-nà míí 
+              to'ó ikán tátùn
+CHM-ft-eng    and that's the reason a lot of them started honouring this saint
+CHM-ft-spa    y por eso es que como que muchos de ellos empezaron a honrar a 
+              ese santo
+Token-gloss   CONJ DEM COP SUB CONJ DEM COP SUB PFV.start worship a.lot-3PL TOP 
+              saint DEM CONJ
+
+
+CHM-tx        ta'án kuìà ta'án kuìà sa'á-nà vikò na káchí-ò ni
+CHM-ft-eng    and for this reason every year they party/celebrate
+CHM-ft-spa    y por eso es decir año con año hacen fiesta
+Token-gloss   CONJ-3SG year CONJ-3SG year IPFV.do-3PL festivity FUT 
+              IPFV.say-1PL.EXCL PRT
+
+
+CHM-tx        ña sa'á-nà kíí ñà kataxa'á cháréóva
+CHM-ft-eng    and what they do is dacing like 'chareos'
+CHM-ft-spa    y lo que hacen es que dancen como los chareos
+Token-gloss   SUB IPFV.do-3PL COP SUB dance chareo-CL
+
+
+CHM-tx        {sssi} xáà-na ìnkà nùu ìnkà ñuu xaa-nà kusíkí-na
+CHM-ft-eng    folks from other villages come and play
+CHM-ft-spa    otros tipos de otros pueblos llegan para jugar
+Token-gloss   ### arrive-3PL other type other village arrive-3PL POT.play-3PL
+
+
+CHM-tx        ñà kíí ña'a pélótáva xáà-na
+CHM-ft-eng    (they) come with the ball
+CHM-ft-spa    (ellos) llegan con lo que es la pelota
+Token-gloss   SUB COP thing ball-CL arrive-3PL
+
+
+CHM-tx        xitaxa'á tì nàvàlí skuéláva
+CHM-ft-eng    the children from the school also dance
+CHM-ft-spa    los niños de escuela también bailan
+Token-gloss   dance CONJ 3PL-small school-CL
+
+
+CHM-tx        ntxikuíí ñàka kíí ñà sa'á-nà ña kíí ixì-rì jí'ìn ixì iin-rì
+CHM-ft-eng    all of this they do on the 10th and 11th
+CHM-ft-spa    todo eso es lo que hacen el día diez y once
+Token-gloss   all DEM COP SUB IPFV.do-3PL SUB day ten-ANML PREP ten one-ANML
+
+
+CHM-tx        ta xì'ini ña ixì iin-rì ña sa'á-nà kíí ñà
+CHM-ft-eng    on the afternoon of the 11th what they do is that
+CHM-ft-spa    la tarde del once lo que hacen es que
+Token-gloss   CONJ afternoon SUB ten one-ANML SUB IPFV.do-3PL COP SUB
+
+
+CHM-tx        koo iin váilé ka'àn míná jí'-an
+CHM-ft-eng    there is a dance, that's how they call it
+CHM-ft-spa    hay un baile, así le llaman
+Token-gloss   COP one dance call PN.3PL PREP-3SG
+
+
+CHM-tx        ta ñakán kíí ñà xáà-na xitaxa'á-nà ntxikuíí
+CHM-ft-eng    and this is when everyone goes to dance
+CHM-ft-spa    y es cuando van todos a bailar todos
+Token-gloss   CONJ DEM COP SUB come-3PL dance-3PL all
+
+
+CHM-tx        ntxà ntxáa ñuu ìkìva kivi xàà-na
+CHM-ft-eng    from any village people can come
+CHM-ft-spa    de cualquier pueblo pueden llegar
+Token-gloss   PREP ADV village any-CL can come-3PL
+
+
+CHM-tx        {#va'a #che'ì} jí'-an na kuiin-na vólétó-na ta kì'vi-nà 
+              kataxa'á-nà
+CHM-ft-eng    as long as they pay their ticket they can get in and dance
+CHM-ft-spa    con que paguen su boleto pueden entrar y bailar
+Token-gloss   PREP-3SG FUT POT.pay-3PL ticket-3PL CONJ enter-3PL dance-3PL
+
+
+CHM-tx        tata ìtivì nùú ixì ìvì-rì jáán-vi nùú intxi'ivà vikò suu
+CHM-ft-eng    when the sun rises on the 12th the holiday has finished, but
+CHM-ft-spa    cuando amanece el dia doce ahí sí ya se terminó la fiesta, pero
+Token-gloss   (H) CONJ awake PREP ten two-ANML DEM-CL PREP finish-CL festivity 
+              CONJ
+
+
+CHM-tx        ùnì kìì xìxòó vikò ñuu-ì
+CHM-ft-eng    the holiday in my village is celebrated for three days
+CHM-ft-spa    tres días se celebra la fiesta de mi pueblo
+Token-gloss   three day IPFV.be festivity village-1SG
+
+
+CHM-tx        ñakán kíí ñà sa'á-nà ñuu Sán Mátxíín.
+CHM-ft-eng    that is what they do in the village of San Martín
+CHM-ft-spa    eso es lo que hacen en el pueblo de San Martin.
+Token-gloss   DEM COP SUB IPFV.do-3PL village San Martín
+
+
