@@ -1,159 +1,291 @@
-CHM-tx	Carmen Hernández Martínez	00:00:17.467	17.467	00:00:19.786	19.786	00:00:02.319	2.319	ta vitxi ñà nantíkanì nùún Alétxíá
-CHM-tx	Carmen Hernández Martínez	00:00:19.794	19.794	00:00:21.195	21.195	00:00:01.401	1.401	nishi sá'án ñàkí ntxéi kuáán
-CHM-tx	Carmen Hernández Martínez	00:00:21.670	21.67	00:00:23.760	23.76	00:00:02.090	2.09	ta ñàà kuniñú'an kuki arróos 
-CHM-tx	Carmen Hernández Martínez	00:00:24.260	24.26	00:00:25.820	25.82	00:00:01.560	1.56	ya'à ìchí ñà kuáán 
-CHM-tx	Carmen Hernández Martínez	00:00:26.220	26.22	00:00:27.160	27.16	00:00:00.940	0.94	ya'à ntìkàa
-CHM-tx	Carmen Hernández Martínez	00:00:27.863	27.863	00:00:31.410	31.41	00:00:03.547	3.547	jí'in ñà ká'ana kí ñà'a yo'ó kuáán ká'amíì jí'a
-CHM-tx	Carmen Hernández Martínez	00:00:31.435	31.435	00:00:33.356	33.356	00:00:01.921	1.921	su asafráàn naníà tiéntá tíná kuian ñà yo'ò
-CHM-tx	Carmen Hernández Martínez	00:00:34.060	34.06	00:00:35.040	35.04	00:00:00.980	0.98	ñà txìkomi
-CHM-tx	Carmen Hernández Martínez	00:00:35.340	35.34	00:00:36.920	36.92	00:00:01.580	1.58	ntuxí jí'i txìnana sòó 
-CHM-tx	Carmen Hernández Martínez	00:00:37.296	37.296	00:00:38.926	38.926	00:00:01.630	1.63	ñàká kí ntxìkuií ñà kuniñú'à
-CHM-tx	Carmen Hernández Martínez	00:00:38.926	38.926	00:00:40.878	40.878	00:00:01.952	1.952	távà nákoan sùvà'án iin ñakí ntxéi kuáán
-CHM-tx	Carmen Hernández Martínez	00:00:41.357	41.357	00:00:42.936	42.936	00:00:01.579	1.579	ta ñàà sá'án núnùú kuki ñà
-CHM-tx	Carmen Hernández Martínez	00:00:43.389	43.389	00:00:48.100	48.1	00:00:04.711	4.711	kixá'àn sakasuaàn arróos ini kìsi jí'i lòtxa'á axítxí chikàà shiná
-CHM-tx	Carmen Hernández Martínez	00:00:48.279	48.279	00:00:50.529	50.529	00:00:02.250	2.25	ta sáàn jàà chikààn arróos távà na koaán kasuaàn 
-CHM-tx	Carmen Hernández Martínez	00:00:50.882	50.882	00:00:53.926	53.926	00:00:03.044	3.044	taxà ìxini-àn ñà vèe kúkuáàn lo'o sáàn chikàn ñà kí ya'à ichí
-CHM-tx	Carmen Hernández Martínez	00:00:54.250	54.25	00:00:55.600	55.6	00:00:01.350	1.35	távà ná kasuaàn jí'in arróos
-CHM-tx	Carmen Hernández Martínez	00:00:56.102	56.102	00:01:01.397	61.397	00:00:05.295	5.295	tanxí'i ichikààn ñakán ta sáàn ta xixiníàn ñà vèe kásún lo'o ñà kíí ya'à ìchí ta sáàn jàn chíkàn ña txìnana válí
-CHM-tx	Carmen Hernández Martínez	00:01:01.463	61.463	00:01:02.213	62.213	00:00:00.750	0.75	txìnana sòó
-CHM-tx	Carmen Hernández Martínez	00:01:02.500	62.5	00:01:05.875	65.875	00:00:03.375	3.375	síkuachíanrì fórmá kuádró vàlí na sá'ánrì ta sáàn chíkàànrí jí'in
-CHM-tx	Carmen Hernández Martínez	00:01:06.290	66.29	00:01:08.286	68.286	00:00:01.996	1.996	ñà mi arróos tava nà kasun tíríkán
-CHM-tx	Carmen Hernández Martínez	00:01:08.779	68.779	00:01:10.963	70.963	00:00:02.184	2.184	ta tántxì'ì ìkasuríkán ta sáàn jààn ví ña
-CHM-tx	Carmen Hernández Martínez	00:01:11.022	71.022	00:01:12.117	72.117	00:00:01.095	1.095	chikan txìkomi ti
-CHM-tx	Carmen Hernández Martínez	00:01:12.500	72.5	00:01:14.860	74.86	00:00:02.360	2.36	(ná kasun) sáanì na kasun txìkomi jí'in ña
-CHM-tx	Carmen Hernández Martínez	00:01:15.323	75.323	00:01:15.948	75.948	00:00:00.625	0.625	jí'in mí arróos
-CHM-tx	Carmen Hernández Martínez	00:01:16.507	76.507	00:01:22.328	82.328	00:00:05.821	5.821	ta tánxì'ì sa xàntutaò ntxikó síón ña kíí mí yò'ò kuáán tava xàná koo lístó ñàkán chii taxà ìkasun ntxi'i ña yó'o
-CHM-tx	Carmen Hernández Martínez	00:01:22.779	82.779	00:01:24.514	84.514	00:00:01.735	1.735	ta ntxàá koyó ña kíí ñà'a
-CHM-tx	Carmen Hernández Martínez	00:01:24.551	84.551	00:01:26.323	86.323	00:00:01.772	1.772	yo'ó kuáán nùù míí
-CHM-tx	Carmen Hernández Martínez	00:01:26.656	86.656	00:01:28.080	88.08	00:00:01.424	1.424	arróos tava na ká'viaña
-CHM-tx	Carmen Hernández Martínez	00:01:28.625	88.625	00:01:32.073	92.073	00:00:03.448	3.448	ta táxà íká'avian xàà ixini-ò ñà xàà ikúkuáá-àn ntxi'i arróos ta sán jàn iká kínùú
-CHM-tx	Carmen Hernández Martínez	00:01:32.455	92.455	00:01:33.926	93.926	00:00:01.471	1.471	ñà'a chikaò chavà txìkuìí
-CHM-tx	Carmen Hernández Martínez	00:01:34.125	94.125	00:01:36.816	96.816	00:00:02.691	2.691	án chíkàtíó míí ntùxí tava tíí ná chíkàà yí'orí
-CHM-tx	Carmen Hernández Martínez	00:01:37.147	97.147	00:01:38.889	98.889	00:00:01.742	1.742	ta kasun-rì lo'o jí'in míí ñà'an
-CHM-tx	Carmen Hernández Martínez	00:01:39.102	99.102	00:01:39.992	99.992	00:00:00.890	0.89	jí'in míí arróos ta sáàn
-CHM-tx	Carmen Hernández Martínez	00:01:40.293	100.293	00:01:44.662	104.662	00:00:04.369	4.369	xàà koan chiñà'àn cho'òrì míí ikánva sò tí kunìò kivi sa chò'ò síintíorì inkà kìsi
-CHM-tx	Carmen Hernández Martínez	00:01:44.933	104.933	00:01:49.522	109.522	00:00:04.589	4.589	ta sáàn ntxàá ntachikaò ña kùñù míí ikán ta míí kántó míí ntuxí míí ntxákán koyó nùù arróos
-CHM-tx	Carmen Hernández Martínez	00:01:50.036	110.036	00:01:52.426	112.426	00:00:02.390	2.39	távà na ñà'a koo kántóàn chii tátùùn siñàà
-CHM-tx	Carmen Hernández Martínez	00:01:52.571	112.571	00:01:55.258	115.258	00:00:02.687	2.687	ntxéi, ntxéi kuáán ká'àna jí'àn soo ùsìí ntxéi kíán chii tátùùn 
-CHM-tx	Carmen Hernández Martínez	00:01:55.566	115.566	00:01:56.632	116.632	00:00:01.066	1.066	kántó sa'a kúkíàn
-CHM-tx	Carmen Hernández Martínez	00:01:57.615	117.615	00:02:00.323	120.323	00:00:02.708	2.708	ta táxà yoó lístóàn ta sántokoó tíkíòñà kìtxiàn ínkò'va
-CHM-tx	Carmen Hernández Martínez	00:02:00.911	120.911	00:02:02.337	122.337	00:00:01.426	1.426	iin órá sava kaa
-CHM-tx	Carmen Hernández Martínez	00:02:02.337	122.337	00:02:06.544	126.544	00:00:04.207	4.207	á ánteva tátùùn ntxé'ò ñà tí xà xùvà'an tá sáàn xà xùvà'an nta'vòña su tá yoó guéltá ta
-CHM-tx	Carmen Hernández Martínez	00:02:06.867	126.867	00:02:08.345	128.345	00:00:01.478	1.478	tíí núú ná ñà'a tùùn ñu'un
-CHM-tx	Carmen Hernández Martínez	00:02:08.669	128.669	00:02:10.507	130.507	00:00:01.838	1.838	tá sáàn ñà'a kuééva kítxìàn
-CHM-tx	Carmen Hernández Martínez	00:02:10.838	130.838	00:02:12.088	132.088	00:00:01.250	1.25	sáàn ínkò'va txìxin iin
-CHM-tx	Carmen Hernández Martínez	00:02:12.455	132.455	00:02:13.464	133.464	00:00:01.009	1.009	kíì kò'va iin órá
-CHM-tx	Carmen Hernández Martínez	00:02:13.469	133.469	00:02:16.958	136.958	00:00:03.489	3.489	a ntxàà sa'a lo'o cháva ínkò'va kuaréntá minútó kaa xà yoó lístovaña
-CHM-tx	Carmen Hernández Martínez	00:02:17.544	137.544	00:02:21.816	141.816	00:00:04.272	4.272	táxà yoó lístoàn ntxàà nta'vò ta sáàn ntxi'i ntxàa súvà'ó íín shìtà ña shìtà maséká  
-CHM-tx	Carmen Hernández Martínez	00:02:22.301	142.301	00:02:23.941	143.941	00:00:01.640	1.64	ntxikó shìtà tá tá ntxi'i tá xàà
-CHM-tx	Carmen Hernández Martínez	00:02:24.242	144.242	00:02:26.404	146.404	00:00:02.162	2.162	kivi ñà chikaò ko'ò táxà kaxá'anvó
-CHM-tx	Carmen Hernández Martínez	00:02:26.705	146.705	00:02:29.941	149.941	00:00:03.236	3.236	tà àsì xéàn ñàkán kíí ñà ntxéi kuáán ká'àntì jí'an soo
-CHM-tx	Carmen Hernández Martínez	00:02:30.345	150.345	00:02:32.955	152.955	00:00:02.610	2.61	kòo xínì ñà chuun nani-àn ntxéi kuáán chii jí'in arróosva súvà'àntiàn
-CHM-tx	Carmen Hernández Martínez	00:02:33.279	153.279	00:02:33.897	153.897	00:00:00.618	0.618	tá ñà'a
-CHM-tx	Carmen Hernández Martínez	00:02:34.345	154.345	00:02:36.345	156.345	00:00:02.000	2.0	ñàkánva ntíkanì nùù alétxiá kìì vitxi
-CHM-ft-eng	Carmen Hernández Martínez	00:00:17.467	17.467	00:00:19.786	19.786	00:00:02.319	2.319	And today I'm going to tell Alexia
-CHM-ft-eng	Carmen Hernández Martínez	00:00:19.794	19.794	00:00:21.195	21.195	00:00:01.401	1.401	how to prepare arroz amarillo
-CHM-ft-eng	Carmen Hernández Martínez	00:00:21.670	21.67	00:00:23.760	23.76	00:00:02.090	2.09	and what you will need would be rice
-CHM-ft-eng	Carmen Hernández Martínez	00:00:24.260	24.26	00:00:25.820	25.82	00:00:01.560	1.56	dried yellow chili
-CHM-ft-eng	Carmen Hernández Martínez	00:00:26.220	26.22	00:00:27.160	27.16	00:00:00.940	0.94	clove
-CHM-ft-eng	Carmen Hernández Martínez	00:00:27.863	27.863	00:00:31.410	31.41	00:00:03.547	3.547	with saffron, how I tell you
-CHM-ft-eng	Carmen Hernández Martínez	00:00:31.435	31.435	00:00:33.356	33.356	00:00:01.921	1.921	but if you buy it in the store here, it's called saffron
-CHM-ft-eng	Carmen Hernández Martínez	00:00:34.060	34.06	00:00:35.040	35.04	00:00:00.980	0.98	ajo
-CHM-ft-eng	Carmen Hernández Martínez	00:00:35.340	35.34	00:00:36.920	36.92	00:00:01.580	1.58	pollo con tomatillo 
-CHM-ft-eng	Carmen Hernández Martínez	00:00:37.296	37.296	00:00:38.926	38.926	00:00:01.630	1.63	
-CHM-ft-eng	Carmen Hernández Martínez	00:00:38.926	38.926	00:00:40.878	40.878	00:00:01.952	1.952	so that you can make arroz amarillo
-CHM-ft-eng	Carmen Hernández Martínez	00:00:41.357	41.357	00:00:42.936	42.936	00:00:01.579	1.579	and the first thing you'll do is
-CHM-ft-eng	Carmen Hernández Martínez	00:00:43.389	43.389	00:00:48.100	48.1	00:00:04.711	4.711	you will begin to toast the rice inside the pot and first you have to put in a little oil
-CHM-ft-eng	Carmen Hernández Martínez	00:00:48.279	48.279	00:00:50.529	50.529	00:00:02.250	2.25	and then put in the rice so it can get crispy
-CHM-ft-eng	Carmen Hernández Martínez	00:00:50.882	50.882	00:00:53.926	53.926	00:00:03.044	3.044	when you see it become a little yellow, then you can add the yellow chili
-CHM-ft-eng	Carmen Hernández Martínez	00:00:54.250	54.25	00:00:55.600	55.6	00:00:01.350	1.35	so that the rice gets crispy
-CHM-ft-eng	Carmen Hernández Martínez	00:00:56.102	56.102	00:01:01.397	61.397	00:00:05.295	5.295	and after you have added (it) and you see that the chili is a little crispy, then you one should add the tomatillos
-CHM-ft-eng	Carmen Hernández Martínez	00:01:01.463	61.463	00:01:02.213	62.213	00:00:00.750	0.75	tomatillo
-CHM-ft-eng	Carmen Hernández Martínez	00:01:02.500	62.5	00:01:05.875	65.875	00:00:03.375	3.375	You have to cut it in the form of small squares and then throw it with 
-CHM-ft-eng	Carmen Hernández Martínez	00:01:06.290	66.29	00:01:08.286	68.286	00:00:01.996	1.996	the rice so that that also gets crispy
-CHM-ft-eng	Carmen Hernández Martínez	00:01:08.779	68.779	00:01:10.963	70.963	00:00:02.184	2.184	and when you finish crisping that then 
-CHM-ft-eng	Carmen Hernández Martínez	00:01:11.022	71.022	00:01:12.117	72.117	00:00:01.095	1.095	you will add the garlic
-CHM-ft-eng	Carmen Hernández Martínez	00:01:12.500	72.5	00:01:14.860	74.86	00:00:02.360	2.36	(that crisps) also that the garlic gets crispy with 
-CHM-ft-eng	Carmen Hernández Martínez	00:01:15.323	75.323	00:01:15.948	75.948	00:00:00.625	0.625	with the rice
-CHM-ft-eng	Carmen Hernández Martínez	00:01:16.507	76.507	00:01:22.328	82.328	00:00:05.821	5.821	and finishing this we should grind the saffron to have it ready because when all this is fried
-CHM-ft-eng	Carmen Hernández Martínez	00:01:22.779	82.779	00:01:24.514	84.514	00:00:01.735	1.735	then you only need to empty that which is
-CHM-ft-eng	Carmen Hernández Martínez	00:01:24.551	84.551	00:01:26.323	86.323	00:00:01.772	1.772	the saffron into that which is 
-CHM-ft-eng	Carmen Hernández Martínez	00:01:26.656	86.656	00:01:28.080	88.08	00:00:01.424	1.424	in the rice so as to color it.
-CHM-ft-eng	Carmen Hernández Martínez	00:01:28.625	88.625	00:01:32.073	92.073	00:00:03.448	3.448	and when we see that the rice is colored
-CHM-ft-eng	Carmen Hernández Martínez	00:01:32.455	92.455	00:01:33.926	93.926	00:00:01.471	1.471	we add more water
-CHM-ft-eng	Carmen Hernández Martínez	00:01:34.125	94.125	00:01:36.816	96.816	00:00:02.691	2.691	and we add the chicken, but we add it raw
-CHM-ft-eng	Carmen Hernández Martínez	00:01:37.147	97.147	00:01:38.889	98.889	00:00:01.742	1.742	so that it crisps up a little with it 
-CHM-ft-eng	Carmen Hernández Martínez	00:01:39.102	99.102	00:01:39.992	99.992	00:00:00.890	0.89	the rice. and then 
-CHM-ft-eng	Carmen Hernández Martínez	00:01:40.293	100.293	00:01:44.662	104.662	00:00:04.369	4.369	we can boil right there, but if not we can cook it in another pot
-CHM-ft-eng	Carmen Hernández Martínez	00:01:44.933	104.933	00:01:49.522	109.522	00:00:04.589	4.589	and then we add the meat and the chicken broth and we put the rice
-CHM-ft-eng	Carmen Hernández Martínez	00:01:50.036	110.036	00:01:52.426	112.426	00:00:02.390	2.39	so that it has chicken broth because it isn't that it is
-CHM-ft-eng	Carmen Hernández Martínez	00:01:52.571	112.571	00:01:55.258	115.258	00:00:02.687	2.687	mole. yellow mole the call it. but it isn't mole because it is like 
-CHM-ft-eng	Carmen Hernández Martínez	00:01:55.566	115.566	00:01:56.632	116.632	00:00:01.066	1.066	broth, that's what it will be like
-CHM-ft-eng	Carmen Hernández Martínez	00:01:57.615	117.615	00:02:00.323	120.323	00:00:02.708	2.708	and when it is ready we will leave it to boil more or less like 
-CHM-ft-eng	Carmen Hernández Martínez	00:02:00.911	120.911	00:02:02.337	122.337	00:00:01.426	1.426	an hour and a half
-CHM-ft-eng	Carmen Hernández Martínez	00:02:02.337	122.337	00:02:06.544	126.544	00:00:04.207	4.207	or earlier if we see that it is ready then we turn it off because sometimes 
-CHM-ft-eng	Carmen Hernández Martínez	00:02:06.867	126.867	00:02:08.345	128.345	00:00:01.478	1.478	if we leave the flame a little low
-CHM-ft-eng	Carmen Hernández Martínez	00:02:08.669	128.669	00:02:10.507	130.507	00:00:01.838	1.838	then it will boil (calmly??)
-CHM-ft-eng	Carmen Hernández Martínez	00:02:10.838	130.838	00:02:12.088	132.088	00:00:01.250	1.25	then, in like 
-CHM-ft-eng	Carmen Hernández Martínez	00:02:12.455	132.455	00:02:13.464	133.464	00:00:01.009	1.009	in an hour
-CHM-ft-eng	Carmen Hernández Martínez	00:02:13.469	133.469	00:02:16.958	136.958	00:00:03.489	3.489	or even less time like 40 minutes and it is ready
-CHM-ft-eng	Carmen Hernández Martínez	00:02:17.544	137.544	00:02:21.816	141.816	00:00:04.272	4.272	and when it is all ready we turn it off and we just make some tortillas from corn meal
-CHM-ft-eng	Carmen Hernández Martínez	00:02:22.301	142.301	00:02:23.941	143.941	00:00:01.640	1.64	we grind the tortillas and then later
-CHM-ft-eng	Carmen Hernández Martínez	00:02:24.242	144.242	00:02:26.404	146.404	00:00:02.162	2.162	we can serve the dishes and we can eat
-CHM-ft-eng	Carmen Hernández Martínez	00:02:26.705	146.705	00:02:29.941	149.941	00:00:03.236	3.236	and it is very tasty the yellow mole we call it but 
-CHM-ft-eng	Carmen Hernández Martínez	00:02:30.345	150.345	00:02:32.955	152.955	00:00:02.610	2.61	I don't know why it's called yellow rice if we make it with rice
-CHM-ft-eng	Carmen Hernández Martínez	00:02:33.279	153.279	00:02:33.897	153.897	00:00:00.618	0.618	and this
-CHM-ft-eng	Carmen Hernández Martínez	00:02:34.345	154.345	00:02:36.345	156.345	00:00:02.000	2.0	that is what I am telling to Alexia today. 
-CHM-ft-spa	Carmen Hernández Martínez	00:00:17.467	17.467	00:00:19.786	19.786	00:00:02.319	2.319	Y hoy voy a contarle a Alexia
-CHM-ft-spa	Carmen Hernández Martínez	00:00:19.794	19.794	00:00:21.195	21.195	00:00:01.401	1.401	Como preparar lo que es mole amarillo
-CHM-ft-spa	Carmen Hernández Martínez	00:00:21.670	21.67	00:00:23.760	23.76	00:00:02.090	2.09	y lo que va a necesitar sería arroz	
-CHM-ft-spa	Carmen Hernández Martínez	00:00:24.260	24.26	00:00:25.820	25.82	00:00:01.560	1.56	chile seco amarillo
-CHM-ft-spa	Carmen Hernández Martínez	00:00:26.220	26.22	00:00:27.160	27.16	00:00:00.940	0.94	clavo 
-CHM-ft-spa	Carmen Hernández Martínez	00:00:27.863	27.863	00:00:31.410	31.41	00:00:03.547	3.547	con asafran, como le digo yo
-CHM-ft-spa	Carmen Hernández Martínez	00:00:31.435	31.435	00:00:33.356	33.356	00:00:01.921	1.921	pero si lo compra en la tienda aquí, se llama asafran
-CHM-ft-spa	Carmen Hernández Martínez	00:00:34.060	34.06	00:00:35.040	35.04	00:00:00.980	0.98	garlic
-CHM-ft-spa	Carmen Hernández Martínez	00:00:35.340	35.34	00:00:36.920	36.92	00:00:01.580	1.58	chicken with tomatillo
-CHM-ft-spa	Carmen Hernández Martínez	00:00:37.296	37.296	00:00:38.926	38.926	00:00:01.630	1.63	esos serían todo lo que ocuparía
-CHM-ft-spa	Carmen Hernández Martínez	00:00:38.926	38.926	00:00:40.878	40.878	00:00:01.952	1.952	para que pueda hacer un mole (arroz) amarillo
-CHM-ft-spa	Carmen Hernández Martínez	00:00:41.357	41.357	00:00:42.936	42.936	00:00:01.579	1.579	y lo primero que va a hacer es 
-CHM-ft-spa	Carmen Hernández Martínez	00:00:43.389	43.389	00:00:48.100	48.1	00:00:04.711	4.711	comenzará a tostar el arroz dentro de la olla y primero tiene que poner un poquito de aceite
-CHM-ft-spa	Carmen Hernández Martínez	00:00:48.279	48.279	00:00:50.529	50.529	00:00:02.250	2.25	y entonces pone el arroz para que se pueda dorar
-CHM-ft-spa	Carmen Hernández Martínez	00:00:50.882	50.882	00:00:53.926	53.926	00:00:03.044	3.044	cuando ya lo ve un poquito amarillo entonces va a agregar el chile amarillo  
-CHM-ft-spa	Carmen Hernández Martínez	00:00:54.250	54.25	00:00:55.600	55.6	00:00:01.350	1.35	para que se dore con el arroz
-CHM-ft-spa	Carmen Hernández Martínez	00:00:56.102	56.102	00:01:01.397	61.397	00:00:05.295	5.295	y despues que haya agregado y lo mira que el chile ya esta un poco dorado entonces debe agregar los tomatillos
-CHM-ft-spa	Carmen Hernández Martínez	00:01:01.463	61.463	00:01:02.213	62.213	00:00:00.750	0.75	tomatillo
-CHM-ft-spa	Carmen Hernández Martínez	00:01:02.500	62.5	00:01:05.875	65.875	00:00:03.375	3.375	lo tiene que pedasar en for de cuadrito y entonces lo echara con
-CHM-ft-spa	Carmen Hernández Martínez	00:01:06.290	66.29	00:01:08.286	68.286	00:00:01.996	1.996	el arroz para que se dore ese tambien
-CHM-ft-spa	Carmen Hernández Martínez	00:01:08.779	68.779	00:01:10.963	70.963	00:00:02.184	2.184	y cuando se termine de dorar eso entonces
-CHM-ft-spa	Carmen Hernández Martínez	00:01:11.022	71.022	00:01:12.117	72.117	00:00:01.095	1.095	agregara el ajo 
-CHM-ft-spa	Carmen Hernández Martínez	00:01:12.500	72.5	00:01:14.860	74.86	00:00:02.360	2.36	(que se dore) tanbien que se dore el ajo con
-CHM-ft-spa	Carmen Hernández Martínez	00:01:15.323	75.323	00:01:15.948	75.948	00:00:00.625	0.625	con el arroz
-CHM-ft-spa	Carmen Hernández Martínez	00:01:16.507	76.507	00:01:22.328	82.328	00:00:05.821	5.821	y teminando esto ya devevos moler el azafran para tenerlo listo porque cuando ya esta todo freido esto
-CHM-ft-spa	Carmen Hernández Martínez	00:01:22.779	82.779	00:01:24.514	84.514	00:00:01.735	1.735	ya solo hay que vaciar lo que es
-CHM-ft-spa	Carmen Hernández Martínez	00:01:24.551	84.551	00:01:26.323	86.323	00:00:01.772	1.772	el azafran en lo que es
-CHM-ft-spa	Carmen Hernández Martínez	00:01:26.656	86.656	00:01:28.080	88.08	00:00:01.424	1.424	en el arroz para que lo pinte
-CHM-ft-spa	Carmen Hernández Martínez	00:01:28.625	88.625	00:01:32.073	92.073	00:00:03.448	3.448	y cuando ya vemos que ya esta pintado el arros entonce ahy
-CHM-ft-spa	Carmen Hernández Martínez	00:01:32.455	92.455	00:01:33.926	93.926	00:00:01.471	1.471	echamos mas agua
-CHM-ft-spa	Carmen Hernández Martínez	00:01:34.125	94.125	00:01:36.816	96.816	00:00:02.691	2.691	y echamos el pollo pero si lo echamos crudo
-CHM-ft-spa	Carmen Hernández Martínez	00:01:37.147	97.147	00:01:38.889	98.889	00:00:01.742	1.742	para que se dore un poco con el
-CHM-ft-spa	Carmen Hernández Martínez	00:01:39.102	99.102	00:01:39.992	99.992	00:00:00.890	0.89	el arros y entonces
-CHM-ft-spa	Carmen Hernández Martínez	00:01:40.293	100.293	00:01:44.662	104.662	00:00:04.369	4.369	lo podemos hervir ahy ismo pero si no lo podemos cocer en otra olla
-CHM-ft-spa	Carmen Hernández Martínez	00:01:44.933	104.933	00:01:49.522	109.522	00:00:04.589	4.589	y entonces echamos la carne y el caldo del pollo se lo ponemos al arros
-CHM-ft-spa	Carmen Hernández Martínez	00:01:50.036	110.036	00:01:52.426	112.426	00:00:02.390	2.39	para que tenga caldo porque no es que
-CHM-ft-spa	Carmen Hernández Martínez	00:01:52.571	112.571	00:01:55.258	115.258	00:00:02.687	2.687	mole. mole amarillo le llaman, pero no es mole porque es como
-CHM-ft-spa	Carmen Hernández Martínez	00:01:55.566	115.566	00:01:56.632	116.632	00:00:01.066	1.066	caldo, asi sera
-CHM-ft-spa	Carmen Hernández Martínez	00:01:57.615	117.615	00:02:00.323	120.323	00:00:02.708	2.708	y cuando ya esta listo lo dejaremos que hierva mas o menos como
-CHM-ft-spa	Carmen Hernández Martínez	00:02:00.911	120.911	00:02:02.337	122.337	00:00:01.426	1.426	una hora y media
-CHM-ft-spa	Carmen Hernández Martínez	00:02:02.337	122.337	00:02:06.544	126.544	00:00:04.207	4.207	o antes como si vemos que ya esta listo entonces lo apagamos porque a veces
-CHM-ft-spa	Carmen Hernández Martínez	00:02:06.867	126.867	00:02:08.345	128.345	00:00:01.478	1.478	si dejamos bajita la lumbre
-CHM-ft-spa	Carmen Hernández Martínez	00:02:08.669	128.669	00:02:10.507	130.507	00:00:01.838	1.838	entonces se hervira con calma
-CHM-ft-spa	Carmen Hernández Martínez	00:02:10.838	130.838	00:02:12.088	132.088	00:00:01.250	1.25	entonces como en
-CHM-ft-spa	Carmen Hernández Martínez	00:02:12.455	132.455	00:02:13.464	133.464	00:00:01.009	1.009	en una hora
-CHM-ft-spa	Carmen Hernández Martínez	00:02:13.469	133.469	00:02:16.958	136.958	00:00:03.489	3.489	o hasta menos tiempo como 40 minutos y ya esta listo
-CHM-ft-spa	Carmen Hernández Martínez	00:02:17.544	137.544	00:02:21.816	141.816	00:00:04.272	4.272	y cuando ya esta listo lo apagamos y ya nomas hacemos unas tortillas tortillas de maseca
-CHM-ft-spa	Carmen Hernández Martínez	00:02:22.301	142.301	00:02:23.941	143.941	00:00:01.640	1.64	molemos las tortillas y despues ya
-CHM-ft-spa	Carmen Hernández Martínez	00:02:24.242	144.242	00:02:26.404	146.404	00:00:02.162	2.162	podemos servir los platos y ya podemos comer
-CHM-ft-spa	Carmen Hernández Martínez	00:02:26.705	146.705	00:02:29.941	149.941	00:00:03.236	3.236	y esta muy sabroso el mole amarillo lo llamamos pero
-CHM-ft-spa	Carmen Hernández Martínez	00:02:30.345	150.345	00:02:32.955	152.955	00:00:02.610	2.61	no sé porque se llama arroz amarillo si lo hacemos con arroz
-CHM-ft-spa	Carmen Hernández Martínez	00:02:33.279	153.279	00:02:33.897	153.897	00:00:00.618	0.618	y este
-CHM-ft-spa	Carmen Hernández Martínez	00:02:34.345	154.345	00:02:36.345	156.345	00:00:02.000	2.0	eso es lo que le estoy contanto a Alexia el dia de hoy
+file:///Users/Alexia/Documents/UCSB/221/SMD-1005-CHM_receta arroz amarillo-AZF-LEFT.eaf
+Friday, May 4, 2018 8:52 PM
+
+CHM-tx        tá vitxi ñà nantíkan-ì nùún Alétxíá
+CHM-ft-eng    And today I'm going to tell Alexia
+CHM-ft-spa    Y hoy voy a contarle a Alexia
+
+
+CHM-tx        nishi sá'án ñàkí ntxeí kuáán
+CHM-ft-eng    how to prepare arroz amarillo
+CHM-ft-spa    Como preparar lo que es mole amarillo
+
+
+CHM-tx        ta ñàà kuniñú'-an kuki arróos
+CHM-ft-eng    and what you will need would be rice
+CHM-ft-spa    y lo que va a necesitar sería arroz
+
+
+CHM-tx        ya'à ìchí ñà kuáán
+CHM-ft-eng    dried yellow chili
+CHM-ft-spa    chile seco amarillo
+
+
+CHM-tx        ya'à ntìkàa
+CHM-ft-eng    clove
+CHM-ft-spa    clavo
+
+
+CHM-tx        jí'in ñà ká'a-na kí ñà'a yo'ó kuáán ká'a-mí-ì jí'-an
+CHM-ft-eng    with saffron, how I tell you
+CHM-ft-spa    con asafran, como le digo yo
+
+
+CHM-tx        su asafráàn naní-à tiéntá tíná kui-an ñà yo'ò
+CHM-ft-eng    but if you buy it in the store here, it's called saffron
+CHM-ft-spa    pero si lo compra en la tienda aquí, se llama asafran
+
+
+CHM-tx        ñà txìkomi
+CHM-ft-eng    ajo
+CHM-ft-spa    garlic
+
+
+CHM-tx        ntuxí jí'i txìnana sòó
+CHM-ft-eng    pollo con tomatillo
+CHM-ft-spa    chicken with tomatillo
+
+
+CHM-tx        ñàká kí ntxìkuií ñà kuniñú'-àn
+CHM-ft-spa    esos serían todo lo que ocuparía
+
+
+CHM-tx        távà nákoan sùvà'-án iin ña kíí ntxeí kuáán
+CHM-ft-eng    so that you can make arroz amarillo
+CHM-ft-spa    para que pueda hacer un mole (arroz) amarillo
+
+
+CHM-tx        ta ñàà sá'án núnùú kuki ñà
+CHM-ft-eng    and the first thing you'll do is
+CHM-ft-spa    y lo primero que va a hacer es
+
+
+CHM-tx        kixá'-àn sakasua-àn arróos ini kìsi jí'i lòtxa'á axítxí chikà-àn shiná
+CHM-ft-eng    you will begin to toast the rice inside the pot and first you 
+              have to put in a little oil
+CHM-ft-spa    comenzará a tostar el arroz dentro de la olla y primero tiene que 
+              poner un poquito de aceite
+
+
+CHM-tx        ta sáàn jàà chikà-àn arróos távà na koa-án kasua-àn
+CHM-ft-eng    and then put in the rice so it can get crispy
+CHM-ft-spa    y entonces pone el arroz para que se pueda dorar
+
+
+CHM-tx        taxà ìxini-àn ñà vèe kúkuá-àn lo'o sáàn chika-àn ñà kí ya'à ichí
+CHM-ft-eng    when you see it become a little yellow, then you can add the 
+              yellow chili
+CHM-ft-spa    cuando ya lo ve un poquito amarillo entonces va a agregar el 
+              chile amarillo
+
+
+CHM-tx        távà ná kasua-àn jí'in arróòs
+CHM-ft-eng    so that the rice gets crispy
+CHM-ft-spa    para que se dore con el arroz
+
+
+CHM-tx        tanxí'i ichikà-àn ñakán ta sáàn ta xixiní-àn ñà vèe kásún lo'o ñà 
+              kíí ya'à ìchí ta sáàn jàn chíkàn ña txìnana válí
+CHM-ft-eng    and after you have added (it) and you see that the chili is a 
+              little crispy, then you one should add the tomatillos
+CHM-ft-spa    y despues que haya agregado y lo mira que el chile ya esta un 
+              poco dorado entonces debe agregar los tomatillos
+
+
+CHM-tx        txìnana sòó
+CHM-ft-eng    tomatillo
+CHM-ft-spa    tomatillo
+
+
+CHM-tx        síkuachí-an-rì fórmá kuádró vàlí na sá'án-rì ta sáàn chíkà-àn-rí jí'in
+CHM-ft-eng    You have to cut it in the form of small squares and then throw it 
+              with
+CHM-ft-spa    lo tiene que pedasar en for de cuadrito y entonces lo echara con
+
+
+CHM-tx        ñà míí arróos tava nà kasun tíríkán
+CHM-ft-eng    the rice so that that also gets crispy
+CHM-ft-spa    el arroz para que se dore ese tambien
+
+
+CHM-tx        ta tántxì'ì ìkasu ríkán ta sáàn jààn ví ña
+CHM-ft-eng    and when you finish crisping that then
+CHM-ft-spa    y cuando se termine de dorar eso entonces
+
+
+CHM-tx        chika-an txìkomi ti
+CHM-ft-eng    you will add the garlic
+CHM-ft-spa    agregara el ajo
+
+
+CHM-tx        (ná kasun) sáanì na kasun txìkomi jí'in ña
+CHM-ft-eng    (that crisps) also that the garlic gets crispy with
+CHM-ft-spa    (que se dore) tanbien que se dore el ajo con
+
+
+CHM-tx        jí'in míí arróos
+CHM-ft-eng    with the rice
+CHM-ft-spa    con el arroz
+
+
+CHM-tx        ta tánxì'-ì sa xàntuta-ò ntxikó síón ña kíí míí yò'ò kuáán tava xàná 
+              koo lístó ñàkán chii taxà ìkasun ntxi'i ña yó'o
+CHM-ft-eng    and finishing this we should grind the saffron to have it ready 
+              because when all this is fried
+CHM-ft-spa    y teminando esto ya devevos moler el azafran para tenerlo listo 
+              porque cuando ya esta todo freido esto
+
+
+CHM-tx        ta ntxàá koyó ña kíí ñà'a
+CHM-ft-eng    then you only need to empty that which is
+CHM-ft-spa    ya solo hay que vaciar lo que es
+
+
+CHM-tx        yo'ó kuáán nùù míí
+CHM-ft-eng    the saffron into that which is
+CHM-ft-spa    el azafran en lo que es
+
+
+CHM-tx        arróos tava na ká'vi-an-ña
+CHM-ft-eng    in the rice so as to color it.
+CHM-ft-spa    en el arroz para que lo pinte
+
+
+CHM-tx        ta táxà íká'avi-an xàà ixini-ò ñà xàà ikúkuáá-àn ntxi'i arróos ta 
+              sán jàn iká kínùú
+CHM-ft-eng    and when we see that the rice is colored
+CHM-ft-spa    y cuando ya vemos que ya esta pintado el arros entonce ahy
+
+
+CHM-tx        ñà'a chika-ò chavà txìkuìí
+CHM-ft-eng    we add more water
+CHM-ft-spa    echamos mas agua
+notes tx      chava MB, but not convinced. Not MM, either tho
+
+
+CHM-tx        án chíkà-tí-ó míí ntùxí tava tíí ná chíkà-àn yí'o-rí
+CHM-ft-eng    and we add the chicken, but we add it raw
+CHM-ft-spa    y echamos el pollo pero si lo echamos crudo
+
+
+CHM-tx        ta kasun-rì lo'o jí'in míí ñà'an
+CHM-ft-eng    so that it crisps up a little with it
+CHM-ft-spa    para que se dore un poco con el
+
+
+CHM-tx        jí'in míí arróos ta sáàn
+CHM-ft-eng    the rice. and then
+CHM-ft-spa    el arros y entonces
+notes tx      checked with Carmen, start here
+
+
+CHM-tx        xàà koan chiñà'àn cho'ò-rì míí ikán va so ti kunì-ò kivi sa cho'ò 
+              sinti-ò-rì inka kìsi
+CHM-ft-eng    we can boil right there, but if not we can cook it in another pot
+CHM-ft-spa    lo podemos hervir ahy ismo pero si no lo podemos cocer en otra 
+              olla
+
+
+CHM-tx        ta sáàn ntxaa ntachika-ò kùñù míí ikán ta míí kánto mí ntuxi 
+              ntakoyo nuu arróos
+CHM-ft-eng    and then we add the meat and the chicken broth and we put the rice
+CHM-ft-spa    y entonces echamos la carne y el caldo del pollo se lo ponemos al 
+              arros
+
+
+CHM-tx        tava na ñà'a koo kántó-àn chii tátùùn sii ñà'a
+CHM-ft-eng    so that it has chicken broth because it isn't that it is
+CHM-ft-spa    para que tenga caldo porque no es que
+
+
+CHM-tx        ntxéi, ntxéi kuáán ka'a'na jí'-àn soo ùsìí ntxéi kíí-án chi tatùn
+CHM-ft-eng    mole. yellow mole the call it. but it isn't mole because it is 
+              like
+CHM-ft-spa    mole. mole amarillo le llaman, pero no es mole porque es como
+
+
+CHM-tx        kántó sa'a kúkíí-àn
+CHM-ft-eng    broth, that's what it will be like
+CHM-ft-spa    caldo, asi sera
+
+
+CHM-tx        ta taxa yoo listo-an ta santokoó tíki-ò ñà kìtxi-an ínkò'va
+CHM-ft-eng    and when it is ready we will leave it to boil more or less like
+CHM-ft-spa    y cuando ya esta listo lo dejaremos que hierva mas o menos como
+
+
+CHM-tx        iin órá sava kaa
+CHM-ft-eng    an hour and a half
+CHM-ft-spa    una hora y media
+
+
+CHM-tx        anteva tatun ntxé'ò ñà tí xà xùvà'-an tá sáàn xà xúvà'an nta'vo-ò-ña su tá 
+              yoó vuéltá ta
+CHM-ft-eng    or earlier if we see that it is ready then we turn it off because 
+              sometimes
+CHM-ft-spa    o antes como si vemos que ya esta listo entonces lo apagamos 
+              porque a veces
+
+
+CHM-tx        tíí núú na ñà'a tùùn ñu'un
+CHM-ft-eng    if we leave the flame a little low
+CHM-ft-spa    si dejamos bajita la lumbre
+
+
+CHM-tx        tá sáàn ñà'a kuééva kítxì-an
+CHM-ft-eng    then it will boil (calmly??)
+CHM-ft-spa    entonces se hervira con calma
+
+
+CHM-tx        sáàn ínkò'va txixin iin
+CHM-ft-eng    then, in like
+CHM-ft-spa    entonces como en
+
+
+CHM-tx        kíí kò'va iin órá an
+CHM-ft-eng    in an hour or
+CHM-ft-spa    en una hora o
+
+
+CHM-tx        ntxàà sa'a lo'o cháva ínkò'va kuaréntá minútó kaa xà yoó lístóva-ña
+CHM-ft-eng    even less time like 40 minutes and it is ready
+CHM-ft-spa    hasta menos tiempo como 40 minutos y ya esta listo
+
+
+CHM-tx        táxà yoó lístó-an ntxàà nta'v-ò ta sáàn ntxi'i ntxàa súvà'-ó iin shìtà ña 
+              shìtà maséká
+CHM-ft-eng    and when it is all ready we turn it off and we just make some 
+              tortillas from corn meal
+CHM-ft-spa    y cuando ya esta listo lo apagamos y ya nomas hacemos unas 
+              tortillas tortillas de maseca
+
+
+CHM-tx        ntxikó shìtà tá ntxi'i táxà
+CHM-ft-eng    we grind the tortillas and then later
+CHM-ft-spa    molemos las tortillas y despues ya
+notes tx      shitara?
+
+
+CHM-tx        kivi ñà chika-ò ko'o táxà kaxa'an-ó
+CHM-ft-eng    we can serve the dishes and we can eat
+CHM-ft-spa    podemos servir los platos y ya podemos comer
+
+
+CHM-tx        tà àsì xéé-àn ñakan kíí ñà ntxéi kuáán ká'à-ntì jí-an soo
+CHM-ft-eng    and it is very tasty the yellow mole we call it but
+CHM-ft-spa    y esta muy sabroso el mole amarillo lo llamamos pero
+
+
+CHM-tx        kòo xíni ñà chuun nani-àn ntxéi kuáán chii jí'in arróosva súvà'à-nti-àn
+CHM-ft-eng    I don't know why it's called yellow rice if we make it with rice
+CHM-ft-spa    no sé porque se llama arroz amarillo si lo hacemos con arroz
+
+
+CHM-tx        tá ñà'à
+CHM-ft-eng    and this
+CHM-ft-spa    y este
+
+
+CHM-tx        ñàkánva ntíkan-ì nùù alétxiá kìì vitxi
+CHM-ft-eng    that is what I am telling to Alexia today.
+CHM-ft-spa    eso es lo que le estoy contanto a Alexia el dia de hoy
